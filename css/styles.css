@@ -1,0 +1,23 @@
+html {
+    padding-top: 25px;
+    background-image: url(images/handandkeyboards.jpg);
+}
+
+body {
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    background-color: #E1EDEB;
+}
+
+h1 {color:darkblue;}
+h2 {color:cadetblue}
+h4 {color:darkolivegreen}
+strong {color:green}
+th {color:purple}
+td {color:darkorchid}
+p {color:mediumaquamarine;}
+li {color:darkred}
+caption {color:darkred}
