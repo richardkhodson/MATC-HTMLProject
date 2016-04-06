@@ -1,15 +1,71 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>landingPage</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- <link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'> -->
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- <style>
+        body {
+            font-family: 'Great Vibes', cursive;
+            font-size: 18px;
+        }
+    </style> -->
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #04330a;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        /* Change the link color to #111 (black) on hover */
+        li a:hover {
+            background-color: #0a1104;
+        }
+        .active {
+            background-color: #239baf;
+        }
+    </style>
 </head>
 <body>
+<p>
     <h1>This is the Landing Page.</h1>
 <p><a href="RichardMainPage.html">Practice Page</a></p>
 <p><a href="aboutMe.html">About Me</a></p>
 <p><a href="porfolioPage.html">Portfolio Page </a></p>
+<p><a href="resumePage.html" class="myButton">Resume</a></p>
 <p><a href="resumePage.html">My Resume</a></p>
+<hr>
+<div class="list-group">
+    <a class="list-group-item" href="RichardMainPage.html"><i class="fa fa-home fa-fw"></i>&nbsp; Practice Page</a>
+    <a class="list-group-item" href="aboutMe.html"><i class="fa fa-book fa-fw"></i>&nbsp; About Me</a>
+    <a class="list-group-item" href="porfolioPage.html"><i class="fa fa-pencil fa-fw"></i>&nbsp; Portfolio Page</a>
+    <a class="list-group-item" href="resumePage.html"><i class="fa fa-cog fa-fw"></i>&nbsp; My Resume</a>
+</div>
+<hr>
+<section>
+<ul>
+    <li><a class="active" href="1landingPage.html">Home</a></li>
+    <li><a href="RichardMainPage.html">Practice Page</a></li>
+    <li><a href="aboutMe.html">About Me</a></li>
+    <li><a href="porfolioPage.html">Portfolio Page</a></li>
+    <li><a href="resumePage.html">My Resume</a></li>
+</ul>
+</section>
 </body>
 </html>
