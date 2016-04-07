@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Me</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+<body>
+<p><a id="home" href="1landingPage.html"><i class="fa fa-chevron-left"></i></a></p>
+    <h1>This is my Contact Me page.</h1>
+<form method="get" action="Unit03_Html/Lesson05_ValidateHtml5/html/inputsReceived.html">
+<label for="firstName">First Name </label><input maxlength="20" id="firstName" name="firstName"><br><br>
+<label for="lastName">Last Name </label><input type="text" maxlength="3" id="lastName" name="lastName"><br><br>
+<label for="password">Password </label><input type="password" id="password" name="password"><br><br>
+
+<label for="email">email </label><input type="email" required = "required" id="email" name="Email"><br><br>
+<label for="genderMale">Male</label><input type="radio" id="genderMale" name="gender" value="male">
+<label for="genderFemale">Female</label><input type="radio" id="genderFemale" name="gender" value="female"><br><br>
+<label for="spam">I would like to receive "SPAM"</label><input type="checkbox" id="spam" name="spam"><br><br>
+<select name="hobbies">
+    <option label="Sports" value="1">Sports</option>
+    <option label="Gaming" value="2">Gaming</option>
+    <option label="Web Dev" value="3">Web Dev</option>
+</select><br><br>
+<label for="aboutYou">Tell us about yourself:</label><br><textarea id="aboutYou" name="aboutYou" cols="30" rows="15" placeholder="Tell us about yourself:"></textarea><br><br>
+<input type="submit" VALUE="Submit">
+<input type="reset" VALUE="Reset">
+</form>
+</body>
+</html>
