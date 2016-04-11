@@ -93,3 +93,42 @@ caption {color:darkred}
 #home{
     text-decoration: none;
 }
+
+/* Animation for img portfolioPage.html handandkeyboards.jpg */
+@keyframes mymove {
+    0% {left: 0px;}
+    50% {left: 300px;}
+    100% {left: 0px;}
+}
+img#handKey {
+    position: relative;
+    animation:mymove 10s 1;
+}
+
+/* Portfolio h1 Underline */
+#portfolioUnderline
+{
+    position: relative;
+}
+#portfolioUnderline:after{
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0%;
+    background: transparent;
+    height: 5px;
+    width: 0;
+    transition: width .2s ease, background-color .2s ease, left .2s ease;
+
+}
+
+#portfolioUnderline:hover:after
+{
+    left: 0;
+    background: white;
+    width: 36%;
+}
+.container {
+    display: flex;
+    flex-direction: column-reverse /* or inline-flex */
+}
