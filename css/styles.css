@@ -132,3 +132,23 @@ img#handKey {
     display: flex;
     flex-direction: column-reverse /* or inline-flex */
 }
+
+/* Media Query */
+@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+    h4 a {
+        padding-left: 135px;
+        padding-top: 135px;
+        background: url(../images/email.png) no-repeat;
+    }
+}
+
+/* try media query - screen size changes background color */
+body {
+    background-color: lightcoral;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightblue;
+    }
+}
