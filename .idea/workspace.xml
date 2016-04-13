@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="40b23a85-1321-4256-97f1-ca866cf67ffe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resumePage.html" afterPath="$PROJECT_DIR$/resumePage.html" />
     </list>
     <ignored path="MATC-HTMLProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -329,7 +327,7 @@
       <workItem from="1460391224937" duration="1158000" />
       <workItem from="1460468078780" duration="7713000" />
       <workItem from="1460519295928" duration="1686000" />
-      <workItem from="1460554569798" duration="5002000" />
+      <workItem from="1460554569798" duration="5083000" />
     </task>
     <task id="LOCAL-00001" summary="This is my first commit.">
       <created>1459267677128</created>
@@ -422,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460479008048</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="4/13/2016&#10;Added bootstrap to my resume header name">
+      <created>1460564055711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1460564055711</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89786000" />
+    <option name="totallyTimeSpent" value="89867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,7 +508,8 @@
     <MESSAGE value="4/11/2016 Changed from 1landingPage.html over to new landingPage.html." />
     <MESSAGE value="4/11/2016 &#10;Added animation and hover transition to portfolio page." />
     <MESSAGE value="4/12/2016&#10;- Today added Media Query in CSS&#10;- Added Bootstrap to my resume and contact me pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/12/2016&#10;- Today added Media Query in CSS&#10;- Added Bootstrap to my resume and contact me pages" />
+    <MESSAGE value="4/13/2016&#10;Added bootstrap to my resume header name" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/13/2016&#10;Added bootstrap to my resume header name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
