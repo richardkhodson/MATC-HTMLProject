@@ -1,58 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Bootstrap CDN -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <!-- End Bootstrap CDN -->
     <meta charset="UTF-8">
     <title>landingPage</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <style>
-        ul  {
-            list-style-type: none;
-            margin: 0;
-            padding:0;
-            overflow: hidden;
-            border-radius: 10px;
-            box-shadow: 10px 10px 10px rgba(0,0,0,.5);
-        <!-- background-color: #04330a; -->
-            background-color: #abedd3;
-        }
-
-        li {
-            float: left;
-        }
-
-        li a {
-            display: block;
-            color: darkcyan;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-
-        /* Change the link color to #111 (black) on hover */
-        li a:hover {
-            background-color: #a3afad;
-        }
-        .active {
-            background-color: #a3afad;
-        }
-    </style>
-</head>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
+    </head>
 <body>
 <div>
-    <ul>
-        <li><a class="active" href="landingPage.html">home</a></li>
-        <!-- <li><a href="RichardMainPage.html">practice Page</a></li>j -->
-        <li><a href="aboutMe.html">about Me</a></li>
-        <li><a href="contactMe.html">contact Me</a></li>
-        <li><a href="porfolioPage.html">portfolio Page</a></li>
-        <li><a href="resumePage.html">my Resume</a></li>
+    <ul class="nav nav-pills">
+        <li role="presentation" class="active"><a href="landingPage.html">home</a></li>
+        <li role="presentation"><a href="aboutMe.html">about Me</a></li>
+        <li role="presentation"><a href="contactMe.html">contact Me</a></li>
+        <li role="presentation"><a href="porfolioPage.html">portfolio Page</a></li>
+        <li role="presentation"><a href="resumePage.html">my Resume</a></li>
+        <li role="presentation"><a href="RichardMainPage.html">practice Page</a></li>
     </ul>
 </div>
-<!-- <h1 style="text-align:center;" >Richard's Landing Page</h1> -->
-<h1>Richard's Landing Page</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-9"><h1>Richard's Landing Page</h1></div>
+    </div>
+</div>
 <div>
-<img border="0" alt="My Photo" src="images/IMG_1233.JPG" width="150" height="200">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-8"><img class="myPhoto" border="0" alt="My Photo" src="images/IMG_1233.JPG" width="150" height="200"></div>
+        </div>
+    </div>
 </div>
 </body>
 </html>
