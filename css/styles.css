@@ -26,9 +26,31 @@ body {
     text-align: center;
     margin: auto;
     height: auto;
-    width: auto%;
+    width: 24%;
     border: 1px solid #73AD21;
     padding: 10px 10px 9px 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgba(0,0,0,.25);
+    background-color: #d4edeb;
+}
+.myPortfolio {
+    text-align: center;
+    margin: auto;
+    height: auto;
+    width: 24%;
+    border: 1px solid #73AD21;
+    padding: 10px 10px 9px 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgba(0,0,0,.25);
+    background-color: #d4edeb;
+}
+.myFamily {
+    text-align: center;
+    margin: auto;
+    height: auto;
+    width: 75%;
+    border: 1px solid #73AD21;
+    padding: 15px 15px 15px 15px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 10px rgba(0,0,0,.25);
     background-color: #d4edeb;
@@ -116,11 +138,11 @@ img#handKey {
 }
 
 /* Portfolio h1 Underline */
-#portfolioUnderline
+#h1Underline
 {
     position: relative;
 }
-#portfolioUnderline:after{
+#h1Underline:after{
     content: '';
     position: absolute;
     bottom: -4px;
@@ -132,11 +154,11 @@ img#handKey {
 
 }
 
-#portfolioUnderline:hover:after
+#h1Underline:hover:after
 {
     left: 0;
     background: white;
-    width: 36%;
+    width: 62%;
 }
 .container {
     display: flex;

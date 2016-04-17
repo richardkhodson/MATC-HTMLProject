@@ -12,29 +12,52 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <!-- End Bootstrap CDN -->
     <meta charset="UTF-8">
-    <title>aboutMe</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <style>
-        div {
-            width: 100px;
-            height: 100px;
-            background: red;
-            -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
-            transition: width 2s;
-        }
-
-        div:hover {
-            width: 300px;
-        }
-    </style>
+            <title>aboutMe</title>
 </head>
 <body>
-<p><a id="home" href="landingPage.html"><i class="fa fa-chevron-left"></i></a></p>
-    <h1>This is the About Me page.</h1>
-<p>This is where I work: <a href="http://www.xactware.com">Welcome to XACTWARE!</a></p>
-<img border="0" alt="Xactware logo" src="images/xactware-logo.png" width="150" height="50">
-<p>And this is my family.</p>
-<img border="0" alt="My Family" src="images/IMG_0566.jpg" width="200" height="300">
+<div>
+    <div class="container-fluid">
+        <ul class="nav nav-pills">
+            <li role="presentation"><a id="home" href="landingPage.html"><i class="fa fa-chevron-left"></i></a>
+            <li role="presentation"><a href="landingPage.html">home Page</a></li>
+            <li role="presentation"><a href="porfolioPage.html">portfolio Page</a></li>
+            <li role="presentation"><a href="contactMe.html">contact Me</a></li>
+            <li role="presentation"><a href="resumePage.html">my Resume</a></li>
+            <li role="presentation" class="active"><a href="aboutMe.html">about Me</a></li>
+            <li role="presentation"><a href="sitmapPage.html">site Map</a></li>
+            <li role="presentation"><a href="RichardMainPage.html">practice Page</a></li>
+        </ul>
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-10"><h1 id="h1Underline">This is the About Me Page.</h1></div>
+        </div><!-- row -->
+        <div class="row">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-8"><img class="myPhoto" border="0" alt="My Photo" src="images/IMG_1233.JPG" width="150" height="200"></div>
+        </div><!-- row -->
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-8"><figcaption> Richard K. Hodson</figcaption></div>
+        </div><!-- row -->
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-8"><img class="myPhoto" border="0" alt="Xactware logo" src="images/xactware-logo.png" width="150" height="50"></div>
+        </div><!-- row -->
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-8"><a href="http://www.xactware.com">Welcome to XACTWARE!</a></div>
+        </div><!-- row -->
+        <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-11"><img class="myFamily" border="0" alt="My Family" src="images/IMG_0566.jpg" width="200" height="300"></div>
+        </div><!-- row -->
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-8"><figcaption>This is my family.</figcaption></div>
+        </div><!-- row -->
+    </div><!-- container -->
+</div>
 </body>
 </html>
