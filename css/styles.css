@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(0,0,0,.5);
-    background-color: #a3afad;
+    background-color: #239baf;
 }
 .resumeName {
     font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +20,7 @@ body {
     padding: 10px 10px 9px 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 10px rgba(0,0,0,.2);
-    background-color: #d4edeb;
+    background-color: #a3afac;
 }
 .myPhoto {
     text-align: center;
@@ -42,7 +42,7 @@ body {
     padding: 10px 10px 9px 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 10px rgba(0,0,0,.25);
-    background-color: #d4edeb;
+    background-color: yellowgreen;
 }
 .myFamily {
     text-align: center;
@@ -66,20 +66,20 @@ h1 {color:darkblue;}
 h2 {color:cadetblue}
 h4 {color:darkolivegreen}
 strong {color:green}
-th {color:purple}
-td {color:darkorchid}
-p {color:mediumaquamarine;}
+th {color: darkcyan}
+td {color: #04330a}
+p {color: #5090ad;}
 li {color:darkred}
 caption {color:darkred}
 
 #everyOtherRow tbody tr:nth-child(even) {
-    background-color: #DFEBC3;
+    background-color: #94c9d9;
 }
 #everyOtherRow tbody tr:nth-child(odd) {
-    background-color: #eb8492;
+    background-color: rgba(148, 201, 215, 0.18);
 }
 #everyOtherRow thead tr {
-    background-color: #CBBBD0;
+    background-color: white;
 }
 .myButton {
     -moz-box-shadow:inset 0px 0px 15px 3px #23395e;
