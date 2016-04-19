@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(0,0,0,.5);
-    background-color: #E1EDEB;
+    background-color: #a3afad;
 }
 .resumeName {
     font-family: Arial, Helvetica, sans-serif;
@@ -176,11 +176,11 @@ img#handKey {
 
 /* try media query - screen size changes background color */
 body {
-    background-color: lightcoral;
+    background-color: rgba(240, 128, 128, 0.41);
 }
 
 @media screen and (min-width: 480px) {
     body {
-        background-color: lightblue;
+        background-color: rgba(1, 17, 1, 0.3);
     }
 }
