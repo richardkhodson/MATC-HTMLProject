@@ -4,8 +4,7 @@
     <list default="true" id="40b23a85-1321-4256-97f1-ca866cf67ffe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactMe.html" afterPath="$PROJECT_DIR$/contactMe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingPage.html" afterPath="$PROJECT_DIR$/landingPage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitmapPage.html" afterPath="$PROJECT_DIR$/sitmapPage.html" />
     </list>
     <ignored path="MATC-HTMLProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="landingPage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landingPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
+            <state relative-caret-position="637">
               <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
               <folding />
             </state>
@@ -39,7 +38,7 @@
       <file leaf-file-name="porfolioPage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/porfolioPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="210">
               <caret line="14" column="64" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aboutMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="54" column="26" selection-start-line="51" selection-start-column="8" selection-end-line="54" selection-end-column="26" />
+            <state relative-caret-position="412">
+              <caret line="45" column="140" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="140" />
               <folding />
             </state>
           </provider>
@@ -61,8 +60,8 @@
       <file leaf-file-name="contactMe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+            <state relative-caret-position="427">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -71,8 +70,8 @@
       <file leaf-file-name="sitmapPage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sitmapPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="111" selection-start-line="22" selection-start-column="111" selection-end-line="22" selection-end-column="111" />
+            <state relative-caret-position="525">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -81,18 +80,18 @@
       <file leaf-file-name="resumePage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resumePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1663">
+            <state relative-caret-position="210">
               <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+            <state relative-caret-position="335">
+              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
               <folding>
                 <element signature="e#3994#4205#0" expanded="false" />
               </folding>
@@ -153,10 +152,10 @@
         <option value="$PROJECT_DIR$/porfolioPage.html" />
         <option value="$PROJECT_DIR$/aboutMe.html" />
         <option value="$PROJECT_DIR$/resumePage.html" />
-        <option value="$PROJECT_DIR$/sitmapPage.html" />
         <option value="$PROJECT_DIR$/landingPage.html" />
-        <option value="$PROJECT_DIR$/contactMe.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/sitmapPage.html" />
+        <option value="$PROJECT_DIR$/contactMe.html" />
       </list>
     </option>
   </component>
@@ -166,10 +165,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="36" />
+    <option name="x" value="226" />
+    <option name="y" value="1103" />
     <option name="width" value="1474" />
-    <option name="height" value="620" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -197,6 +196,16 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,20 +254,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../troubleshooting" />
+    <property name="last_opened_file_path" value="$USER_HOME$/TeachingMaterials" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -390,7 +389,8 @@
       <workItem from="1460848843757" duration="15171000" />
       <workItem from="1460986790057" duration="5858000" />
       <workItem from="1461040141209" duration="5014000" />
-      <workItem from="1461073078426" duration="5003000" />
+      <workItem from="1461073078426" duration="5526000" />
+      <workItem from="1461159495003" duration="4672000" />
     </task>
     <task id="LOCAL-00001" summary="This is my first commit.">
       <created>1459267677128</created>
@@ -539,11 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1461046621972</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="4/19/2016&#10;color editing in resume page.">
+      <created>1461083522502</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1461083522502</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130429000" />
+    <option name="totallyTimeSpent" value="135624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,7 +562,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="109" y="36" width="1474" height="620" extended-state="0" />
+    <frame x="226" y="1103" width="1474" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12525809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -627,7 +634,8 @@
     <MESSAGE value="4/17/2016&#10;Added photo to resume" />
     <MESSAGE value="4/18/2016&#10;Change sitemap to a different format." />
     <MESSAGE value="4/19/2016&#10;Add a new html project." />
-    <option name="LAST_COMMIT_MESSAGE" value="4/19/2016&#10;Add a new html project." />
+    <MESSAGE value="4/19/2016&#10;color editing in resume page." />
+    <option name="LAST_COMMIT_MESSAGE" value="4/19/2016&#10;color editing in resume page." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -876,12 +884,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/sitemapPage.html" />
+    <entry file="file://$PROJECT_DIR$/../untitled/view-source_wegraphics.net_demo_item_one_.htm" />
+    <entry file="file://$PROJECT_DIR$/porfolioPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resumePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/email.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/view-source_wegraphics.net_demo_item_one_.htm" />
     <entry file="file://$PROJECT_DIR$/RichardMainPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -900,63 +926,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitmapPage.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="111" selection-start-line="22" selection-start-column="111" selection-end-line="22" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/porfolioPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="64" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="64" />
+        <state relative-caret-position="335">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3994#4205#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutMe.html">
+    <entry file="file://$PROJECT_DIR$/sitmapPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="54" column="26" selection-start-line="51" selection-start-column="8" selection-end-line="54" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landingPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        <state relative-caret-position="525">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contactMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        <state relative-caret-position="427">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resumePage.html">
+    <entry file="file://$PROJECT_DIR$/landingPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1663">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="637">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/aboutMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
-          <folding>
-            <element signature="e#3994#4205#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="412">
+          <caret line="45" column="140" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="140" />
+          <folding />
         </state>
       </provider>
     </entry>
